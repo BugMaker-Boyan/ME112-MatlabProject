@@ -1,2 +1,12 @@
 # ME112-MatlabProject
-Deep Learning Application Toolbox
+Deep learning is one of the most popular fields in recent years. Deep learning technology has been widely applied in face recognition, object classification, autonomous driving, and other directions. Unlike traditional machine learning, deep learning workflows can automatically extract relevant features from objects, and in theory, a deep neural network can fit any function. Most of the existing popular learning frameworks are based on Python language, while MATLAB, as a powerful scientific computing tool, is also very excellent in the application level of deep learning technology. In order to enable more people to quickly experience deep learning technology and feel the power and charm of deep learning, in this project, I will use MATLAB language to develop a deep learning application toolbox. It includes two application modules: handwritten digit recognition and data fitting. The former is based on LeNet-5 Convolutional Neural Network, which is the first powerful work of Convolutional Neural Network. The latter is based on a deep full connection network that supports user-friendly custom parameters and can fit any data theoretically.
+Keywords: MATLAB, Deep Learning, CNN, DNN
+
+## Image Processing Toolbox
+Image Processing Toolbox in MATLAB provides a comprehensive set of reference-standard algorithms and workflow apps for image processing, analysis, visualization, and algorithm development. You can perform image segmentation, image enhancement, noise reduction, geometric transformations and image registration using deep learning and traditional image processing techniques.
+## Deep Learning Toolbox
+Deep Learning Toolbox in MATLAB provides a framework for designing and implementing deep neural networks with algorithms, pretrained models, and apps. You can use convolutional neural networks (ConvNets, CNNs) and long short-term memory (LSTM) networks to perform classification and regression on image, time-series, and text data and so on. With the Deep Network Designer app, you can design, analyze, and train networks graphically.
+## App Designer
+App Designer is a new generation of GUI design tool in MATLAB, embedded with many commonly used components, and introduced the object-oriented style of language design scheme.
+## Artificial Neural Network
+An artificial neural network (ANN) is the piece of a computing system designed to simulate the way the human brain analyzes and processed information. It is the foundation of artificial intelligence (AI) and solves problems that would prove impossible or difficult by human or statistical standards. ANNs have self-learning capabilities that enable them to produce better results as more data becomes available.
